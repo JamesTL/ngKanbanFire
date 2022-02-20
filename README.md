@@ -28,4 +28,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Tutorial
 
-https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase#5   to Step 5 - recommence at step 6
+https://developers.google.com/codelabs/building-a-web-app-with-angular-and-firebase#5  
+
+16th Feb 2022  to Step 5 - recommence at step 6
+20th Feb 2022 to Step 6,7,8 - recommence at step  9
